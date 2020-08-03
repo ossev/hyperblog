@@ -42,3 +42,10 @@ body {
 #post{
     padding: 0px;
 }
+
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 2px;
+}
